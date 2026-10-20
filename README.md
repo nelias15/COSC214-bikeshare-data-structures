@@ -14,7 +14,7 @@ Comparing performance across 4 custom data structures using Capital Bikeshare da
 * Benchmark speed tests for Array & Hash
 * Report Sections 1–5
 
-### N
+### Nate
 * `LinkedList.java`
 * `PriorityQueue.java`
 * Benchmark speed tests for List & Queue
